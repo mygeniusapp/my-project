@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-project/static/css/main.3bababae.css",
+    "main.js": "/my-project/static/js/main.9aa46443.js",
+    "static/js/488.833b0d61.chunk.js": "/my-project/static/js/488.833b0d61.chunk.js",
+    "static/media/uk.jpg": "/my-project/static/media/uk.db16b70ea1af5591c669.jpg",
+    "static/media/attraction3.jpg": "/my-project/static/media/attraction3.53c2cdfd9e2b40f68554.jpg",
+    "static/media/attraction4.jpg": "/my-project/static/media/attraction4.88e153b9dc5aace11d7b.jpg",
+    "static/media/attraction2.jpg": "/my-project/static/media/attraction2.fd10bc1fa6d83fd52b4a.jpg",
+    "static/media/attraction1.jpg": "/my-project/static/media/attraction1.eccc7c415f8b57f66fa3.jpg",
+    "static/media/exchange-logo.png": "/my-project/static/media/exchange-logo.0de4ba5369dbef5ec65d.png",
+    "static/media/weather-logo.JPG": "/my-project/static/media/weather-logo.3a24f117f6db6b9602c2.JPG",
+    "index.html": "/my-project/index.html",
+    "main.3bababae.css.map": "/my-project/static/css/main.3bababae.css.map",
+    "main.9aa46443.js.map": "/my-project/static/js/main.9aa46443.js.map",
+    "488.833b0d61.chunk.js.map": "/my-project/static/js/488.833b0d61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bababae.css",
+    "static/js/main.9aa46443.js"
+  ]
+}
